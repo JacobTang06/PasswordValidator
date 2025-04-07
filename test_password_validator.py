@@ -1,3 +1,4 @@
+from password_validator import validate_password
 
 class TestPasswordValidator:
 
@@ -28,3 +29,15 @@ class TestPasswordValidator:
 
     def test_password_success(self):
         assert validate_password("ValidPass123!") == True
+
+if __name__ == "__main__":
+    tester = TestPasswordValidator()
+    tester.test_password_length()
+    tester.test_password_uppercase_letter()
+    tester.test_password_lowercase_letter()
+    tester.test_password_digit()
+    tester.test_password_special_char()
+    tester.test_password_invalid_char()
+    tester.test_password_repeated_char()
+    tester.test_password_success()
+    print("All tests passed")
