@@ -58,4 +58,4 @@ Evaluation Criteria:
 - password_validator.py (implementation).
 - test_password_validator.py (test cases/scripts).
 - README.md (documentation).
-Deadline: 24 hours from receipt
+1. Deadline: 24 hours from receipt
