@@ -43,19 +43,19 @@ Example Test Cases:
 
 Evaluation Criteria:
 
-Code Quality
-Readability and modularity.
-Test Coverage
-Completeness of test cases (are all rules and edge cases addressed?).
-Accuracy
-Does the validator function correctly implement all rules?
-Bonus Points
-Use of parameterized tests.
-Handling unexpected inputs (e.g., None, non-string types).
-Considering security implications (e.g., timing attacks).
-Submission Instructions:
-Provide a GitHub/GitLab repo link or a ZIP file containing:
-password_validator.py (implementation).
-test_password_validator.py (test cases/scripts).
-README.md (documentation).
+1. Code Quality
+- Readability and modularity.
+2. Test Coverage
+- Completeness of test cases (are all rules and edge cases addressed?).
+3. Accuracy
+- Does the validator function correctly implement all rules?
+4. Bonus Points
+- Use of parameterized tests.
+- Handling unexpected inputs (e.g., None, non-string types).
+- Considering security implications (e.g., timing attacks).
+5. Submission Instructions:
+- Provide a GitHub/GitLab repo link or a ZIP file containing:
+- password_validator.py (implementation).
+- test_password_validator.py (test cases/scripts).
+- README.md (documentation).
 Deadline: 24 hours from receipt
