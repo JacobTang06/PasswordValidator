@@ -11,4 +11,3 @@
 3. Assumptions:
 - Function assumes that user input is case sensitive.
 - Function assumes that the input type is a valid string.
-- Function assumes that the password validation is language-agnostic.
