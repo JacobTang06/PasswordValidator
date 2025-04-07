@@ -1,6 +1,4 @@
-# PasswordValidator
-
-Problem Statement
+# Problem Statement
 Create a Python function that validates a password based on specific rules, then design a test suite to verify its correctness.
 
 
